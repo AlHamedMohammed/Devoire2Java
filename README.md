@@ -26,6 +26,10 @@ The project consists of the following files:
     ```
 
 2. Compile and run the Client:
+ 
+    - Use another terminal window to run the Client class:
     ```bash
     javac Client.java && java Client
     ```
+
+
